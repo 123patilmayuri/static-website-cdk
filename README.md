@@ -13,9 +13,9 @@ To install AWS CDK globally, run:
 `npm install -g aws-cdk`
 
 ## Project Setup
-1. Clone the Repository
-git clone <repository-url>
-cd <repository-directory>
+1. Clone the Repository 
+git clone https://github.com/123patilmayuri/static-website-cdk.git
+cd static-website-cdk
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app√
 
